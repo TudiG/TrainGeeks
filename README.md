@@ -50,10 +50,14 @@ Score points by delivering passengers correctly. Game ends if any station become
 
 ## Train Game Controls
 
-Mouse Left Click on a Station: Select station for rail construction  
-Mouse Left Click on another Station: Build rail path between selected station and target station  
-Mouse Right Click on Rails: Erase rails starting from clicked cell  
+Mouse Left Click on a Station: Select station for rail construction
+
+Mouse Left Click on another Station: Build rail path between selected station and target station
+
+Mouse Right Click on Rails: Erase rails starting from clicked cell
+
 W/A/S/D: Move camera (if camera movement is enabled)  
+
 SPACE – Restart game after game over  
 
 ## Notes
