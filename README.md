@@ -54,7 +54,9 @@ Mouse Left Click on a Station: Select station for rail construction
 
 Mouse Left Click on another Station: Build rail path between selected station and target station
 
-Mouse Right Click on Rails: Erase rails starting from clicked cell
+Mouse Right Click on Rails: Add train at chosen point on a rail or add anothe wagon to an already existing train
+
+Mouse Button 4: Erase a segment of rail betwen two stations
 
 W/A/S/D: Move camera (if camera movement is enabled)  
 
