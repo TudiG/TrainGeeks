@@ -25,6 +25,7 @@ cd TrainGame
 2. Create a build folder:
 
 mkdir build
+
 cd build
 
 3. Generate Visual Studio project files with CMake:
